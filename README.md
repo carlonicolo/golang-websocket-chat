@@ -7,3 +7,5 @@ I have used PyCharm IDE for this project then you can import the project and the
 
 ![Execution-image](golangChat.png)
 
+This is a project illustrated in the course https://www.udemy.com/course/working-with-websockets-in-go/
+
